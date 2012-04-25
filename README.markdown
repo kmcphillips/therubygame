@@ -1,4 +1,5 @@
-= The Ruby Game
+The Ruby Game
+=============
 
 These are submissions that I am working on for The Ruby Game.
 
